@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DF05FA0022E0350200E12F94 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF05F9FF22E0350200E12F94 /* Home.swift */; };
 		DFC7801122E0179500137AFE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFC7801022E0179500137AFE /* AppDelegate.swift */; };
 		DFC7801322E0179500137AFE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFC7801222E0179500137AFE /* SceneDelegate.swift */; };
 		DFC7801522E0179500137AFE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFC7801422E0179500137AFE /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DF05F9FF22E0350200E12F94 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Home.swift; path = ../../../../../../../System/Volumes/Data/Users/hew/Code/Swift/Projects/NiceCerts/NiceCerts/Home.swift; sourceTree = "<group>"; };
 		DFC7800D22E0179500137AFE /* NiceCerts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NiceCerts.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DFC7801022E0179500137AFE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DFC7801222E0179500137AFE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				DFC7801022E0179500137AFE /* AppDelegate.swift */,
 				DFC7801222E0179500137AFE /* SceneDelegate.swift */,
 				DFC7801422E0179500137AFE /* ContentView.swift */,
+				DF05F9FF22E0350200E12F94 /* Home.swift */,
 				DFC7801622E0179700137AFE /* Assets.xcassets */,
 				DFC7801B22E0179700137AFE /* LaunchScreen.storyboard */,
 				DFC7801E22E0179700137AFE /* Info.plist */,
@@ -148,6 +151,7 @@
 			files = (
 				DFC7801122E0179500137AFE /* AppDelegate.swift in Sources */,
 				DFC7801322E0179500137AFE /* SceneDelegate.swift in Sources */,
+				DF05FA0022E0350200E12F94 /* Home.swift in Sources */,
 				DFC7801522E0179500137AFE /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
